@@ -35,7 +35,7 @@ const Contact = () => {
       setErrMsg("Give a valid Email!");
       setSuccessMsg("");
     } else if (subject === "") {
-      setErrMsg("Plese give your Subject!");
+      setErrMsg("Please give your Subject!");
       setSuccessMsg("");
     } else if (message === "") {
       setErrMsg("Message is required!");
@@ -117,7 +117,7 @@ const Contact = () => {
                   onChange={(e) => setSubject(e.target.value)}
                   value={subject}
                   className={`${
-                    errMsg === "Plese give your Subject!" &&
+                    errMsg === "Please give your Subject!" &&
                     "outline-designColor"
                   } contactInput`}
                   type="text"

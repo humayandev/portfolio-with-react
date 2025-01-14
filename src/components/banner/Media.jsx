@@ -11,13 +11,13 @@ const Media = () => {
             Find me in
           </h2>
           <div className="flex gap-4">
-            <a className="bannerIcon" href='https://www.facebook.com/mdh.cse' target='_blank'>
+            <a className="bannerIcon" href='https://www.facebook.com/somrathumayan' target='_blank'>
               <FaFacebookF />
             </a>
-            <a className="bannerIcon" href='https://www.linkedin.com/in/mdh-cse/' target='_blank'>
+            <a className="bannerIcon" href='https://www.linkedin.com/in/humayankabir089/' target='_blank'>
               <FaLinkedinIn />
             </a>
-            <a className="bannerIcon" href='https://github.com/delwar-bscse' target='_blank'>
+            <a className="bannerIcon" href='https://github.com/somrathumayan' target='_blank'>
               <FaGithub />
             </a>
           </div>

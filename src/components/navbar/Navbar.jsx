@@ -4,7 +4,6 @@ import { Link } from "react-scroll";
 import { FiMenu } from "react-icons/fi";
 import { MdClose } from "react-icons/md";
 import { FaFacebookF, FaGithub, FaLinkedinIn } from "react-icons/fa";
-import Delwar from "/Delwar.png"
 import { navLinksdata } from '../../constants/index';
 
 const Navbar = () => {
@@ -21,7 +20,7 @@ const Navbar = () => {
           duration={500}
           className='font-titleFont text-white text-2xl lg:text-3xl font-bold shadow-sm cursor-pointer'
         >
-            MDH
+            Md. Humayan Kabir
         </Link>
       </div>
       <div>
@@ -64,7 +63,7 @@ const Navbar = () => {
             <div className="flex flex-col gap-8 py-2 relative">
               <div>
               <h3 className='font-titleFont text-white text-3xl font-bold shadow-sm cursor-pointer pt-[60px]'>
-                  M D Hossain
+                  Md. Humayan Kabir
               </h3>
                 <p className="text-gray-400 mt-2 text-xs">
                 I have hands-on experience in web design & development. I excel in designing and maintaining responsive websites with smooth user experience. I am adept at writing clean and efficient code on both the client and server sides.
@@ -95,13 +94,13 @@ const Navbar = () => {
                   Find me in
                 </h2>
                 <div className="flex gap-4">
-                  <a className="bannerIcon" href='https://www.facebook.com/mdh.cse' target='_blank'>
+                  <a className="bannerIcon" href='https://www.facebook.com/somrathumayan' target='_blank'>
                     <FaFacebookF />
                   </a>
-                  <a className="bannerIcon" href='https://www.linkedin.com/in/mdh-cse/' target='_blank'>
+                  <a className="bannerIcon" href='https://www.linkedin.com/in/humayankabir089/' target='_blank'>
                     <FaLinkedinIn />
                   </a>
-                  <a className="bannerIcon" href='https://github.com/delwar-bscse' target='_blank'>
+                  <a className="bannerIcon" href='https://github.com/somrathumayan' target='_blank'>
                     <FaGithub />
                   </a>
                 </div>

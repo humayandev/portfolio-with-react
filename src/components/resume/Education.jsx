@@ -17,17 +17,17 @@ const Education = () => {
         <div className="w-full mt-6 lgl:mt-5 h-auto flex flex-col gap-5">
           <EduCard
             title="B.Sc in Computer Science & Engineering"
-            subTitle="University of South Asia (2024)"
-            result="3.88/4"
+            subTitle="Uttara University (2022)"
+            result="3.62/4"
           />
           <EduCard
             title="Higher Secondary Certificate"
-            subTitle="CCER Model College (2018)"
-            result="3.50/5"
+            subTitle="Rajshahi Govt. City College (2014)"
+            result="4.90/5"
           />
           <EduCard
             title="Secondary School Education"
-            subTitle="UCEP Dhaka Technical School (2015)"
+            subTitle="Naogaon Zilla School (2012)"
             result="5.00/5"
           />
         </div>
