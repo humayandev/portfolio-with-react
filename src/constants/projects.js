@@ -2,39 +2,39 @@ import { cara, realEstate, startP, skylark, virtualIR, bbms, } from "../assets/i
 
 export const projects = [
     {
-        title:"Real Estate",
+        title:"2ndSource",
         imgSrc:realEstate,
-        webLink:"https://real-state-seven-pi.vercel.app/",
-        githubLInk:"https://github.com/delwar-bscse/real-state"
+        webLink:"https://www.2ndsource.xyz/",
+        githubLInk:"https://www.2ndsource.xyz/"
     },
     {
-        title:"VirtualIR",
+        title:"EdenProse",
         imgSrc:virtualIR,
-        webLink:"https://virtualr-coral.vercel.app/",
-        githubLInk:"https://github.com/delwar-bscse/virtualr"
+        webLink:"https://edenprose.netlify.app/",
+        githubLInk:"https://edenprose.netlify.app/"
     },
     {
-        title:"Cara",
+        title:"Neuropath Clinic",
         imgSrc:cara,
-        webLink:"https://ecommerce-website-usa.netlify.app/",
-        githubLInk:"https://ecommerce-website-usa.netlify.app/"
+        webLink:"https://neurobridge.2ndsource.xyz/",
+        githubLInk:"https://neurobridge.2ndsource.xyz/"
     },
     {
-        title:"Skylark",
+        title:"Doomore Solutions",
         imgSrc:skylark,
-        webLink:"https://shylark-git-main-delwar-hossains-projects.vercel.app/",
-        githubLInk:"https://github.com/delwar-bscse/shylark"
+        webLink:"https://doomoresolutions.com/",
+        githubLInk:"https://doomoresolutions.com/"
     },
     {
-        title:"StartP",
+        title:"Qsssynergy",
         imgSrc:startP,
-        webLink:"https://start-p-omega.vercel.app/",
-        githubLInk:"https://github.com/delwar-bscse/StartP"
+        webLink:"https://qsssynergy.com/",
+        githubLInk:"https://github.com/somrathumayan/qsssynergy"
     },
     {
-        title:"BBMS",
+        title:"Indore Plants",
         imgSrc:bbms,
-        webLink:"https://bbms-2024.vercel.app/login",
-        githubLInk:"https://github.com/delwar-bscse/BBMS-Frontend"
+        webLink:"https://somrathumayan.github.io/tailwindcss-indore-plant/",
+        githubLInk:"https://github.com/somrathumayan/tailwindcss-indore-plant"
     }
 ]

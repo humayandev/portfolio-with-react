@@ -10,7 +10,7 @@ const Navbar = () => {
   const [showMenu, setShowMenu]=useState(false);
 
   return (
-    <div className="w-full mx-auto px-4 lg:px-10 h-20 fixed top-0 left-0 z-50 bg-bodyColor flex justify-between items-center font-titleFont border-b-[1px] border-b-gray-600">
+    <div className="w-full mx-auto px-4 lg:px-10 md:px-12 h-20 fixed top-0 left-0 z-50 bg-bodyColor flex justify-between items-center font-titleFont border-b-[1px] border-b-gray-600">
       <div className='flex items-end gap-3'>
         <Link
           to="about"
