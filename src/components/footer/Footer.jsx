@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <div className="w-full py-10">
       <p className="text-center text-gray-300 text-base animate-pulse">
-        © 2024. All rights reserved by Md. Delwar Hossain
+        © 2025. All rights reserved by Md. Humayan Kabir
       </p>
     </div>
   );
